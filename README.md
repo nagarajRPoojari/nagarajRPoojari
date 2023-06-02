@@ -21,7 +21,7 @@ I'm a full stack developer...
 ## 🛠 Skills 
 Machine learning, Neural networks , computer vision, Python, Javascript, DSA , Node.js , Express.js, Socket.io , Mongodb ..
 
-<img src="https://github-readme-stats.vercel.app/api?username=nagarajRPoojari&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarajRPoojari&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=nagarajRPoojari&show_icons=true&theme=transparent" style="display:inline"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarajRPoojari&layout=compact&theme=transparent" style="display:inline"/>
 <img src="https://leetcard.jacoblin.cool/Nagaraj_Poojari?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" />
 
