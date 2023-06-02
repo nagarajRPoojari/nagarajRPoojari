@@ -1,15 +1,11 @@
 
 # Hi, I'm Nagaraj! 👋
 
-
 ## 🚀 About Me
 I'm a full stack developer...
-
-
 ## 
 
 🧠 I'm currently learning Deep learning and computer vision.
-
 
 💬 Ask me about Machine learning,  DSA , Node , Express ...
 
