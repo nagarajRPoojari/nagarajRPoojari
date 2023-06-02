@@ -8,10 +8,10 @@ I'm a full stack developer...
 
 ## 
 
-🧠 I'm currently learning Data science and Machine lerning
+🧠 I'm currently learning Deep learning and computer vision.
 
 
-💬 Ask me about DSA , Node , Express ...
+💬 Ask me about Machine learning,  DSA , Node , Express ...
 
 
 
@@ -22,5 +22,7 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## 🛠 Skills
-Javascript, DSA , Node.js , Express.js, Socket.io , Mongodb ..
+## 🛠 Skills 
+Machine learning, Neural networks , computer vision, Python, Javascript, DSA , Node.js , Express.js, Socket.io , Mongodb ..
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=nagarajRPoojari)
