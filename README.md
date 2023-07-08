@@ -2,12 +2,12 @@
 # Hi, I'm Nagaraj! 👋
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a 2nd year ISE student in Ramaiah Institue of Technology , Bangalore.
 ## 
 
-🧠 I'm currently learning Deep learning and computer vision.
+🧠 I'm currently learning Natural language processing , LLMs , React.js and much more.
 
-💬 Ask me about Machine learning,  DSA , Node , Express ...
+💬 Ask me about Machine learning ,  DSA , Nural Networks ..
 
 ## 🛠 Languages and tools 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,java,python,express,git,github,mongodb,visualstudio,nodejs)](https://skillicons.dev)
