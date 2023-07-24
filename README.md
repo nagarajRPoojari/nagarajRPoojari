@@ -1,5 +1,5 @@
 
-# Hi, I'm Nagaraj! 👋
+# Hi, I'm Nagaraj Poojari! 👋
 
 ## 🚀 About Me
 I'm a 2nd year ISE student at Ramaiah Institue of Technology , Bangalore.
