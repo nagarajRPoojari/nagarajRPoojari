@@ -10,7 +10,7 @@ I'm a 2nd year ISE student at Ramaiah Institue of Technology , Bangalore.
 💬 Ask me about Machine learning ,  DSA , Nural Networks ..
 
 ## 🛠 Languages and tools 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,java,python,express,git,github,mongodb,visualstudio,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,react,java,python,express,git,github,mongodb,visualstudio,nodejs)](https://skillicons.dev)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
