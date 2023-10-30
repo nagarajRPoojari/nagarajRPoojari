@@ -2,7 +2,7 @@
 # Hi, I'm Nagaraj Poojari! 👋
 
 ## 🚀 About Me
-I'm a 2nd year ISE student at Ramaiah Institue of Technology , Bangalore.
+I'm a 3nd year ISE student at Ramaiah Institue of Technology , Bangalore.
 ## 
 
 🧠 I'm currently learning Natural language processing , LLMs , React.js and much more.
