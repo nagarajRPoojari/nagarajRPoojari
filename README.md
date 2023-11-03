@@ -3,7 +3,7 @@
 Nagaraj Poojari</a></h1>
 <h3 align="center">A passionate computer science student @RIT bangalore </h3>
 
-
+<p align="center">😂 fun fact - No matter how hard you work to build a model, you will always be surpassed by someone who stacks more layers.</p>
 
 <br></br>
  </p>
