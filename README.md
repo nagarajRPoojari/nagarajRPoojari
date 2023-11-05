@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Nagaraj Poojari</a></h1>
-<h3 align="center">A passionate computer science student @RIT bangalore </h3>
+<h3 align="center">A passionate Information science student @RIT bangalore </h3>
 
 <p align="center">😂 fun fact - No matter how hard you work to build a model, you will always be surpassed by someone who stacks more layers.</p>
 
