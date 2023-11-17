@@ -33,9 +33,9 @@ Machine learning, Neural networks , computer vision, Python, Javascript, DSA , N
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajRPoojari&layout=compact&theme=radical" alt="Your Name's Most Used Languages" width="350" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarajRPoojari&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" width="400" height="200">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarajRPoojari&theme=nord" alt="Your Name's GitHub Streak">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajRPoojari&layout=compact&theme=dark" alt="Your Name's Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarajRPoojari&show_icons=true&theme=dark" alt="Your Name's GitHub Stats" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarajRPoojari&theme=dark" alt="Your Name's GitHub Streak">
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nagarajRPoojari&theme=darkhub&no-frame=true&no-bg=true&no-title=true&row=1&column=7" alt="Your Name's Trophies">
