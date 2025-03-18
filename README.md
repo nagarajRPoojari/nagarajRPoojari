@@ -44,4 +44,10 @@ Nagaraj Poojari</a></h1>
   <img src="https://github-profile-trophy.vercel.app/?username=nagarajRPoojari&theme=darkhub&no-frame=true&no-bg=true&no-title=true&row=1&column=7" alt="Your Name's Trophies">
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
