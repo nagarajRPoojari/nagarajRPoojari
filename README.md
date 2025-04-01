@@ -3,7 +3,7 @@
 Nagaraj Poojari</a></h1>
 <h3 align="center">A passionate Information science student @RIT bangalore </h3>
 
-<p align="center">😂 fun fact - No matter how hard you work to build a model, all the credit goes to the one who distills it.</p>
+<p align="center">😂 fun fact - It is easy build one from scratch than debugging someone else's software.</p>
 <p align="center">😌 advice - Problem solving != Leetcode.</p>
 
 
