@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Nagaraj Poojari</a></h1>
-<h3 align="center">A passionate Information science student @RIT bangalore </h3>
+<h4 align="center"> Tinkerer who loves building software </h4>
 
 <p align="center">😂 fun fact - It is easy build one from scratch than debugging someone else's software.</p>
-<p align="center">😌 advice - Problem solving != Leetcode.</p>
 
 
 ## 🛠 My journey so far
