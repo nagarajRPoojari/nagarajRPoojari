@@ -4,7 +4,9 @@
 ```
 - Super passionate about engineering software stuff  
 - I have this strange habit of building things from scratch  
-- These days, I'm building software that runs across multiple devices  
 - Storage is my area — from files to databases, single machines to distributed systems  
-- I hate DSA (yeah, seriously)
+
+- I know AI, I mean I know how flash attention runs on CUDA , not how to write CLAUDE.md
+- I have experience working for early startups as well as giant techs
+- I had built my programming language, distributed (database, file system, event streamer), graphics engine, neural net library etc..
 ```
